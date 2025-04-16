@@ -12,4 +12,4 @@ $ bash ubuntu.sh
 
 $ bash ubuntu-login.sh
 
-$ 
+$ neofetch
