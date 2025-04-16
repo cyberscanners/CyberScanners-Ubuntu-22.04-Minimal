@@ -16,4 +16,6 @@ $ bash ubuntu.sh
 
 $ bash ubuntu-login.sh
 
+$ bash minimal-setup.sh
+
 $ neofetch
