@@ -2,8 +2,6 @@
 
 # 𝐂𝐘𝐁𝐄𝐑 𝐒𝐂𝐀𝐍𝐍𝐄𝐑𝐒 𝐇𝐀𝐂𝐊𝐈𝐍𝐆 𝐓𝐄𝐑𝐌𝐔𝐗 𝐔𝐁𝐔𝐍𝐓𝐔 22.04 𝐌𝐈𝐍𝐈𝐌𝐀𝐋 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐋𝐎𝐖 𝐑𝐀𝐌 + 𝐒𝐓𝐎𝐑𝐀𝐆𝐄 𝐃𝐄𝐕𝐈𝐂𝐄𝐒.
 
-Low RAM + Storage Devices
-
 TERMUX INSTALL.
 
 $ pkg update && pkg upgrade
