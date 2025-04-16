@@ -10,4 +10,6 @@ $ cd CyberScanners-Ubuntu-22.04-Minimal
 
 $ bash ubuntu.sh
 
+$ bash ubuntu-login.sh
+
 $ 
